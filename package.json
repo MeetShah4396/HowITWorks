@@ -39,5 +39,13 @@
     "scheduler": "^0.23.0"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeetShah4396/HowITWorks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MeetShah4396/HowITWorks/issues"
+  },
+  "homepage": "https://github.com/MeetShah4396/HowITWorks#readme",
   "description": ""
 }
